@@ -1,146 +1,151 @@
 {
   "main": {
-    "name":"Gulnihal Naldoken",
-    "description":"I am a Full-stack web developer. I use React, Node and PostgreSQL to develop applications. This page is my portfolio and a space where I want to reflect myself",
-    "image":"gulnihal.jpeg",
-    "bio":"An eager, junior full-stack developer who is ready to implement and develop existing technical and interpersonal skills. Adapted to managing all stages of the software life cycle without any background in coding when having lots of changes in my life. Proficient in building with React and applying database fundamental knowledge and I enjoy collaborating with colleagues to build multifaceted applications. I am keen on utilizing my strong communication and reasoning skills, including the ability to use my previous experience to ensure the quality of work.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "name": "Gulnihal Naldoken",
+    "description": "SOFTWARE DEVELOPER",
+    "image": "gulnihal.jpeg",
+    "bio": "An eager, junior full-stack developer who is ready to implement and develop existing technical and interpersonal skills. Adapted to managing all stages of the software life cycle without any background in coding when having lots of changes in my life. Proficient in building with React and applying database fundamental knowledge and I enjoy collaborating with colleagues to build multifaceted applications. I am keen on utilizing my strong communication and reasoning skills, including the ability to use my previous experience to ensure the quality of work.",
+    "contactmessage": "Contact Me",
     "email": "gh.naldoken@gmail.com",
     "phone": "+44-7367-029896",
-    "github":"https://github.com/gulnihaln",
-    "project":"www.linkedin.com/in/gulnihalnaldoken",
-    "address":{
-      "street":"Green Croft Close",
-      "city":"Atherton",
-      "state":"Manchester",
-      "zip": "M46 0TQ"
+    "github": "https://github.com/gulnihaln",
+    "project": "https://www.linkedin.com/in/gulnihalnaldoken",
+    "address": {
+      "street": "",
+      "city": "Atherton",
+      "state": "Manchester",
+      "zip": "M46"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://drive.google.com/file/d/1iQQGEyeTEcW6mrTGTE4PLw9T2RtbSb92/view",
-    "social":[
+    "resumedownload": "https://drive.google.com/file/d/1So7VwgW8JKgpVCkr4T6al7zpBLWGZ8OU/view",
+    "social": [
       {
-        "name":"twitter",
-        "url":"https://twitter.com/gulnihalgulni",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "https://twitter.com/gulnihalgulni",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"linkedIn",
-        "url":"www.linkedin.com/in/gulnihalnaldoken",
-        "className":"fa fa-linkedin"
+        "name": "linkedIn",
+        "url": "www.linkedin.com/in/gulnihalnaldoken",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"github",
-        "url":"https://github.com/gulnihaln",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/gulnihaln",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"",
-    "education":[
+  "resume": {
+    "skillmessage": "My Strengths",
+    "education": [
       {
-        "school":"CodeYourFuture",
-        "degree":"Full Stack Web Development Course",
-        "graduated":"Mar 2021 - Feb 2022",
-        "description":""
+        "school": "CodeYourFuture",
+        "degree": "Full Stack Web Development Course",
+        "graduated": "Mar 2021 - Feb 2022",
+        "description": "Built-up soft skills and technical skills and gained the principals of self learning in the course. Experienced in Agile Software methods. Delivered various application including 'Development Planner App' for CodeYourFuture which enables graduates keeping track of their professional and personal developments and receiving feedback from their mentors"
       },
       {
-        "school":"Bogazici University",
-        "degree":"BS & MS in Secondary School Science and Mathematics Education",
-        "graduated":"Sep 2005 - Jun 2012",
-        "description":""
+        "school": "Bogazici University",
+        "degree": "BS & MS in Secondary School Science and Mathematics Education",
+        "graduated": "Sep 2005 - Jun 2012",
+        "description": ""
       }
     ],
-    "work":[
-      {
-        "company":"CodeYourFuture",
-        "title":"FullStack Developer",
-        "years":"March 2021 - Present",
-        "description":"Contributed to over 20 repositories. Worked in a team to create multifaceted projects."
+    "work": [
+        {
+        "company": "CodeYourFuture",
+        "title": "FullStack Developer",
+        "years": "March 2022 - present"
       },
       {
-        "company":"Nizamiye Schools Mayfair",
-        "title":"Physical Science Teacher",
-        "years":"Dec 2017 - Dec 2018",
-        "description":"Taught physics and chemistry from grade 8 to 10 (ages 14 to 16)), managed grade 8s as their class teacher. Successfully implemented the use of interactive science materials. Provided weekly one-one-one meetings with students to track their progress by collaborating with school counsellor and parents. Mentored students for ESKOM/EXPO science fair."
+        "company": "CodeYourFuture",
+        "title": "Trainee FullStack Developer",
+        "years": "Feb 2021 - Feb 2022",
+        "description": "Delivered projects based on Javascript, React, Node and PostgreSQL and worked in an agile team. Learned Material UI to build user friendly applications and fetching data with Axios to integrate backend and frontend. Provided security with JWT for authorisation when users logged in. I adapted to the agile methodologies in a short time at CYF by using my past experience developing and managing projects for NGO’s as a volunteer of 7 years. Contributed to Pasta La Vista team creating React components, building sign up authentication using Git / GitHub and structuring the database for our final project. I experienced working with a Product Manager and tech leader as well as having meetings with the Product Owner and finally presented this project to a developer community with my team in person on the North West Class 4 Demo day."
       },
       {
-        "company":"The Ministry of Work & Social Security",
-        "title":"Data Preparation and Control Operator",
-        "years":"Jan 2013 - Agu 2013",
-        "description":"Managed the data saving tools provided by the ministry. Checked the data according to the ministry standards. Managed the archive of the laboratory test results and office documents. Documented the office outcomes."
+        "company": "Nizamiye Schools Mayfair",
+        "title": "Physical Science Teacher",
+        "years": "Dec 2017 - Dec 2018",
+        "description": "Taught physics and chemistry from grade 8 to 10 (ages 14 to 16)), managed grade 8s as their class teacher. Successfully implemented the use of interactive science materials. Provided weekly one-one-one meetings with students to track their progress by collaborating with school counsellor and parents. Mentored students for ESKOM/EXPO science fair."
+      },
+      {
+        "company": "The Ministry of Work & Social Security",
+        "title": "Data Preparation and Control Operator",
+        "years": "Jan 2013 - Agu 2013",
+        "description": "Managed the data saving tools provided by the ministry. Checked the data according to the ministry standards. Managed the archive of the laboratory test results and office documents. Documented the office outcomes."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"JavaScript",
-        "level":"85%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"90%"
+        "name": "JavaScript",
+        "level": "85%"
       },
       {
-        "name":"HTML",
-        "level":"95%"
+        "name": "ReactJs",
+        "level": "90%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
-      },
-       {
-        "name":"NodeJs",
-        "level":"85%"
+        "name": "HTML",
+        "level": "95%"
       },
       {
-        "name":"PostgreSQL",
-        "level":"85%"
+        "name": "CSS",
+        "level": "90%"
       },
       {
-        "name":"Material UI",
-        "level":"80%"
+        "name": "NodeJs",
+        "level": "85%"
       },
       {
-        "name":"Axios",
-        "level":"80%"
+        "name": "PostgreSQL",
+        "level": "85%"
       },
-       {
-        "name":"Figma",
-        "level":"80%"
+      {
+        "name": "Material UI",
+        "level": "80%"
+      },
+      {
+        "name": "Axios",
+        "level": "80%"
+      },
+      {
+        "name": "Figma",
+        "level": "80%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Development Planner",
-        "category":"An application for CodeYourFuture graduates and mentors",
-        "image":"01.jpg",
-        "url":"https://development-planner-cyf-final.herokuapp.com/"
+        "title": "Development Planner",
+        "category": "An application for CodeYourFuture graduates and mentors",
+        "image": "01.jpg",
+        "url": "https://development-planner-cyf-final.herokuapp.com/"
       },
       {
-        "title":"Video Recommendation",
-        "category":"An app for adding and rating videos",
-        "image":"02.jpg",
-        "url":"https://github.com/gulnihaln/Full-Stack-Project-Assessment"
+        "title": "Video Recommendation",
+        "category": "An app for adding and rating videos",
+        "image": "02.jpg",
+        "url": "https://github.com/gulnihaln/Full-Stack-Project-Assessment"
       },
       {
-        "title":"Zuhal the Makeup Artist",
-        "category":"A website for a makeup artist",
-        "image":"03.jpg",
-        "url":"https://github.com/gulnihaln/Zuhal-website-1"
+        "title": "Zuhal the Makeup Artist",
+        "category": "A website for a makeup artist",
+        "image": "03.jpg",
+        "url": "https://github.com/gulnihaln/Zuhal-website-1"
       },
       {
-        "title":"CYF Hotel",
-        "category":"A React based hotel booking application",
-        "image":"04.jpg",
-        "url":"https://github.com/gulnihaln/cyf-hotel-react"
+        "title": "CYF Hotel",
+        "category": "A React based hotel booking application",
+        "image": "04.jpg",
+        "url": "https://github.com/gulnihaln/cyf-hotel-react"
       },
       {
-        "title":"TV Show DOM Project",
-        "category":"A website where users can reach multiple TV shows and episodes",
-        "image":"05.jpg",
-        "url":"https://github.com/gulnihaln/tv-show-dom-project"
+        "title": "TV Show DOM Project",
+        "category": "A website where users can reach multiple TV shows and episodes",
+        "image": "05.jpg",
+        "url": "https://github.com/gulnihaln/tv-show-dom-project"
       }
     ]
   }
