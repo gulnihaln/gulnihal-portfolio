@@ -85,9 +85,8 @@ class Contact extends Component {
                       name="contactMessage"
                     ></textarea>
                   </div>
-
                   <div>
-                    <button className="submit">Submit</button>
+                      <button className="submit">Submit</button>
                     <span id="image-loader">
                       <img alt="" src="images/loader.gif" />
                     </span>
@@ -117,14 +116,11 @@ class Contact extends Component {
                 </p>
               </div>
 
-              <div className="widget widget_tweets">
+              {/* <div className="widget widget_tweets">
                 <h4 className="widget-title">Latest Tweets</h4>
                 <ul id="twitter">
                   <li>
                     <span>
-                      This is Photoshop's version of Lorem Ipsum. Proin gravida
-                      nibh vel velit auctor aliquet. Aenean sollicitudin, lorem
-                      quis bibendum auctor, nisi elit consequat ipsum
                       <a href="./">http://t.co/CGIrdxIlI3</a>
                     </span>
                     <b>
@@ -144,7 +140,7 @@ class Contact extends Component {
                     </b>
                   </li>
                 </ul>
-              </div>
+              </div> */}
             </aside>
           </Slide>
         </div>
