@@ -51,7 +51,7 @@ class About extends Component {
                 <div className="columns download">
                   <p>
                     <a href={resumeDownload} className="button" target="_blank">
-                      Open Resume
+                      Resume
                     </a>
                   </p>
                 </div>
